@@ -18,9 +18,9 @@ ou
 
 ### Mariadb 10.7 pour la base de données
 
- **Attention : Pour la persitence de données le docker utilisera le dossier ```/var/lib/mysql``` de la machine hôte** 
+ Attention : Pour la persitence de données le docker utilisera le dossier ```/var/lib/mysql``` de la machine hôte
 
- Le nom d'hote de la machine ```mariadb``` sera a utiliser lors de la configuration initiale de glpi (première installation) dans le champ "Base de données".
+ ***Le nom d'hote de la machine ```mariadb``` sera a utiliser lors de la configuration initiale de glpi (première installation) dans le champ "SQL Server".***
 
 
 ### GLPI (basé sur diouxx/glpi)

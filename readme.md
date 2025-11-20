@@ -6,7 +6,7 @@ Le docker-compose proposé ici est celui avec persistance de données décrit da
 
 ## Execution
 
-1. Cloner le dépot
+1. Cloner le dépot : `git clone https://github.com/guivarchVauban/glpi_docker.git`
 2. Modifier le fichier mariadb.env pour personnaliser vos mots de passe
 
 3. Lancer
